@@ -1,0 +1,27 @@
+.divInput{
+    display: flex;
+    justify-content:space-between;
+    margin-bottom:100px;
+    margin-left: 140px;    
+}
+
+.label{
+    font-size: 22px;
+    align-content: flex-start;
+    margin-right: 10px;
+}
+
+.select{
+    appearance: none;
+    display: flex;
+    background-color:#2B2A33;
+    border: 0.01em solid rgb(185, 184, 184);
+    scroll-behavior: smooth;
+    padding-bottom: 10%;
+    max-width: 230px;
+    min-width: 230px;
+}
+
+.dropdown{
+    font-style:italic;  
+}
